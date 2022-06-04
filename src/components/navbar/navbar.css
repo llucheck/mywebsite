@@ -23,7 +23,7 @@
 
 .websiteNavbarLinksContainer p,
 .websiteNavbarMenuContainer p {
-    color: var(--colorTxt);
+    color: #fff;
     font-family: var(--fontFamily);
     font-weight: 500;
     font-size: 18px;
