@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@200;300;400;500;600;700;800&display=swap');
+
+root {
+    --fontFamily: 'Roboto'
+    --colorBg: #4E0202;
+    --colorFoot: #893A3A;
+    --colorTxt: #024E4E;
+}

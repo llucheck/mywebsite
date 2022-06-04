@@ -1,0 +1,41 @@
+.websiteNavbar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem 6rem;
+}
+
+.websiteNavbarLinks {
+    flex: 1;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.websiteNavbarLinksLogo {
+    margin-right: 2rem;
+}
+
+.websiteNavbarLinksContainer {
+    display: flex;
+    flex-direction: row;
+}
+
+.websiteNavbarLinksContainer p,
+.websiteNavbarMenuContainer p {
+    color: var(--colorTxt);
+    font-family: var(--fontFamily);
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 25px;
+    text-transform: capitalize;
+    cursor: pointer;
+    margin: 0 1rem;
+}
+
+.websiteNavbarMenu {
+    margin-left: 1rem;
+    display: none;
+    position: relative;
+}
+
