@@ -17,11 +17,6 @@ const Header = () => {
           exciting and well-paced job.
         </p>
 
-        <p>
-          Follow me on my coding journey as I develop new projects and 
-          work hard to develop this website at my github <a href="https://github.com/llucheck">Here!</a> 
-        </p>
-
       </div>
     </div>
   )
