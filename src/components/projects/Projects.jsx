@@ -39,8 +39,8 @@ const Projects = () => {
 
         <p className='currentProjects'>
           You can look at these projects by clicking the images above.
-          You can also see all of my projects current and old by clicking
-          HERE!
+          You can also see all of my projects current and old by clicking 
+          <a className="link" href="https://github.com/llucheck" > HERE!</a>
         </p>
 
       </div>

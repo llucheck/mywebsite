@@ -1,0 +1,54 @@
+.workingOn {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    margin-top: 8rem;
+}
+
+.workingOnContent {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-direction: column;
+    padding: 2rem;
+}
+
+.workingOnContent h1 {
+    font-family: var(--font-family);
+    color: #45A29E;
+    font-weight: 800;
+    font-size: 32px;
+    line-height: 45px;
+    padding-bottom: 2rem;
+}
+
+.workingOnContent h2 {
+    font-family: var(--font-family);
+    color: #45A29E;
+    font-weight: 800;
+    font-size: 32px;
+    line-height: 45px;
+    padding-bottom: 2rem;
+    padding-top: 2rem;
+
+}
+
+.workingOnContent p {
+    font-family: var(--font-family);
+    color: var(--colorTxt);
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 28px;
+    width: 800px;
+}
+
+.workingOnImage {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.workingOnImage img {
+    width: 50%;
+    height: 50%;
+}
