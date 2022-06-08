@@ -4,7 +4,7 @@ import { tron, recipebox, support } from './imports.js'
 
 const Projects = () => {
   return (
-    <div className='projects' id="projects">
+    <div className='projects sectionPadding' id="projects">
       <div className='projectsContent'>
         <h1>
           What have I done so far?

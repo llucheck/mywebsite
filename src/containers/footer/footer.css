@@ -1,0 +1,35 @@
+.footer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: var(--colorFoot);
+}
+
+.footerContentHeader {
+    width: 100%;
+    text-align: center;
+
+    margin: 0 0 3rem;
+}
+
+.footerContentHeader h1 {
+    font-family: var(--fontFamily);
+    font-weight: 800;
+    font-size: 50px;
+    line-height: 68px;
+}
+
+.footerContentLinks {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.footerContentLinks p {
+    font-family: var(--fontFamily);
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 24px;
+}

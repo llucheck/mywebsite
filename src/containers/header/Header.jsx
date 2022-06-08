@@ -5,7 +5,7 @@ const Header = () => {
   return (
     <div className='websiteHeader sectionPadding' id="home">
       <div className='websiteHeaderContent'>
-        <h1>Welcome to my first actual website!</h1>
+        <h1>Welcome!</h1>
 
         <p>
           Hi, my name is Leonard. I'm a recent graduate from Lewis 

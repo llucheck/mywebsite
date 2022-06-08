@@ -1,5 +1,6 @@
 .websiteHeader {
     display: flex;
+    margin: 0 10% 0;
 }
 
 .websiteHeaderContent {
